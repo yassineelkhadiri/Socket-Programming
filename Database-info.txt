@@ -1,0 +1,7 @@
+Pour accéder à la base de données voici les informations ci-jointes :
+Username: gXy6SedWD6
+Database name: gXy6SedWD6
+Password: itIC3EPG1X
+Server: remotemysql.com
+Port : 3306
+https://remotemysql.com/phpmyadmin/sql.php?db=gXy6SedWD6&table=Etudiant&pos=0
